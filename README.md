@@ -233,4 +233,4 @@ sudo rm /var/log/input_monitor/known_devices.state
 
 ---
 
-Подробное описание логики по каждому пункту задания — в [REPORT.md](REPORT.md).
+

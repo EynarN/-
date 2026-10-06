@@ -46,7 +46,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
+git clone https://github.com/EynarN/-.git
 cd <repo>
 
 chmod +x proc_monitor.sh input_monitor.sh
